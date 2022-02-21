@@ -3,6 +3,6 @@
 3) To implement this, A restuarant needs to install an open WiFi network so that customers mobile can be connected automatically and default web page of the restuarant viewd.
 
 4) Implementation using:
-  Programming Language: Java, SQL, JavaScript.
-  Front End: HTML, CSS.
-  Database: MySQL.
+  4.1) Programming Language: Java, SQL, JavaScript.
+  4.2) Front End: HTML, CSS.
+  4.3) Database: MySQL.
